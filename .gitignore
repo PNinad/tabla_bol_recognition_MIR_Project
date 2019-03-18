@@ -1,0 +1,8 @@
+# Dataset
+tabla_solo_1.0
+
+# Features dataset
+extracted_features.csv
+
+# Jupyter cache
+.ipynb_checkpoints
